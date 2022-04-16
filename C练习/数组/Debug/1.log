@@ -1,0 +1,4 @@
+﻿  冒泡排序.c
+E:\桌面\别动\C\1\冒泡排序.c(24,18): warning C4013: “strlen”未定义；假设外部返回 int
+E:\桌面\别动\C\1\冒泡排序.c(20): warning C4716: “buble_sort”: 必须返回一个值
+  1.vcxproj -> E:\桌面\别动\C\1\Debug\1.exe
