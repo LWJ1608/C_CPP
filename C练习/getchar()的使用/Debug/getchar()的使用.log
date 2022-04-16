@@ -1,0 +1,3 @@
+﻿  getchar().c
+E:\桌面\别动\C\C练习\getchar()的使用\getchar().c(16,18): warning C4087: “getchar”: 用“void”参数列表声明
+  getchar()的使用.vcxproj -> E:\桌面\别动\C\C练习\getchar()的使用\Debug\getchar()的使用.exe
